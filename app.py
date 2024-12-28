@@ -17,13 +17,6 @@ st.markdown("""
 
     /* Card style for input container */
     .input-card {
-        background: #ffffff;
-        border-radius: 10px;
-        box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
-        padding: 20px;
-        margin: 20px auto;
-        max-width: 600px;
-        border: 1px solid #e0e0e0;
         display:none;
     }
 
