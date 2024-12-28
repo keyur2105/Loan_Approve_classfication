@@ -45,7 +45,7 @@ st.markdown("""
     
     .st-bw{
         display:none;
-            }
+    }
 
     .st-b1:hover {
         border: 1px solid #007bff !important;
