@@ -14,15 +14,6 @@ Real-time display of loan approval status.
    ```bash
    git clone https://github.com/keyur2105/Loan_Approve_classification.git
 
-## File Structure
-
-loan_prediction_app/
-- │
-- ├── app.py                   # Main Streamlit application
-- ├── lr.pkl                   # Pre-trained logistic regression model
-- ├── scaller.pkl              # Scaler for preprocessing input data
-- └── requirements.txt         # List of Python dependencies
-
 ## Dependencies
 - streamlit
 - pandas
